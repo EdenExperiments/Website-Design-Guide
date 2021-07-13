@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,600;1,700&display=swap');
+
+body {
+    background: #10597a;
+    color: antiquewhite;
+    font-family: 'EB Garamond', serif;
+    font-size: 17px;
+}
+
+header {
+    font-family: 'Oswald', sans-serif;
+    font-size: large;
+    font-weight: 800;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
+}
+header p {
+    padding-left: 400px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.Harlequin {
+    background-color: #2de810;
+}
+
+.Pomegranate {
+    background-color: #e82910;
+
+}
+
+#colours div {
+    display: inline-block;
+    max-width: 100px;
+    padding: 15px;
+    margin: 10px;
+}
+
